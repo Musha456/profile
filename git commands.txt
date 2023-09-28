@@ -1,0 +1,10 @@
+GIT COMMANDS
+
+git --version (Show the version of git)
+git status (Show the status of folder, either repository or not)
+git init (Make folder to the repository)
+git add . (Change to staged all files)
+git commit -m "version 1" (Commit the files)
+git config --global user.name "Syed Mushahid" (add user name)
+git config --global user.email "syedmushahidhussain456@gmail.com" (add user email)
+
